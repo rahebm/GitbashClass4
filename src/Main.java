@@ -3,7 +3,8 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("this is a new code");
-
+        System.out.println("the is the second code");
+        System.out.println("testing the code push only");
         }
 
 }
